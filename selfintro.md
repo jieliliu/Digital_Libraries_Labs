@@ -1,7 +1,9 @@
 # Hello!
 My name is Jieli. I am a PhD student at Indiana University Bloomington.
 
+```
 Jieli's ![headshot](headshot.png)
+```
 
 |name|university|
 |-|-:|
